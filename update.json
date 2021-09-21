@@ -1,0 +1,7 @@
+{
+  "homepage": "ddddd",
+  "promos": {
+    "0.0.1-latest": "Test",
+    "0.0.1-recommended": "Test(recommended)"
+  }
+}
